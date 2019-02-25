@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="General"
+        android:icon="@mipmap/home_icon"
+        android:id="@+id/menu_general" />
+    <item
+        android:title="Detail"
+        android:icon="@mipmap/stats_icon"
+        android:id="@+id/menu_detail"/>
+    <item
+        android:title="Weapon"
+        android:icon="@mipmap/weapon_icon"
+        android:id="@+id/menu_weapon"/>
+    <item
+        android:title="Vehicle"
+        android:icon="@mipmap/vehicle_icon"
+        android:id="@+id/menu_vehicle"/>
+
+</menu>
